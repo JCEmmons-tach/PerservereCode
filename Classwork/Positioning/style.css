@@ -1,0 +1,32 @@
+#parent {
+    background-color: yellow;
+    height: 500px;
+    width:500px;
+    position:relative;
+    overflow:auto;}
+    
+.red {
+    background-color: red;
+    width: 100px;
+    height:100px;
+    margin-left: 50px;
+    padding: 50px;
+    font-size: 100px;}
+
+.blue {
+    background-color: blue;
+    width: 100px;
+    height:100px;
+    margin-left: 50px;
+    padding: 50px;
+    font-size: 100px;
+    position: sticky; 
+    right:0px;}
+
+.green { 
+    background-color: green;
+    width: 100px;
+    height:100px;
+    margin-left: 50px;
+    padding: 50px;
+    font-size: 100px;}
